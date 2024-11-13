@@ -15,3 +15,10 @@ Este projeto é um sistema de gestão para clínicas odontológicas, desenvolvid
 ### Back-End
 **Java:** Lógica do sistema e manipulação de dados recebidos do formulário.
 
+Instruções de Instalação
+Clone o repositório:
+
+bash
+Copiar código
+git clone https://github.com/ArmandoJunior00/Clinica-odonto.git
+
