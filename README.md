@@ -15,20 +15,6 @@ Este projeto é um sistema de gestão para clínicas odontológicas, desenvolvid
 ## Back-End
 **Java:** Lógica do sistema e manipulação de dados recebidos do formulário.
 
-### Instruções de Instalação
-Clone o repositório:
 
-Estrutura do Projeto
-plaintext
-Clinica-odonto/
-├── backend/
-│   ├── src/
-│   ├── main/
-│   └── resources/
-├── frontend/
-|   ├── pages/
-│   ├── css/
-│   ├── js/
-├── README.md
 
 
