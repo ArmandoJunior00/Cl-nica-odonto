@@ -12,3 +12,6 @@ Este projeto é um sistema de gestão para clínicas odontológicas, desenvolvid
 **CSS:** Estilização e criação de um layout responsivo e amigável.
 **JavaScript:** Validação de dados do formulário e interatividade na interface do usuário.
 
+### Back-End
+**Java:** Lógica do sistema e manipulação de dados recebidos do formulário.
+
